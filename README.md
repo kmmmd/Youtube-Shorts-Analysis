@@ -7,7 +7,8 @@ Bu hesabatda platformadakı fərqli məzmun kateqoriyalarının performansı və
 ### 1. 📂 Kateqoriyalara Görə Paylaşma Sayı (Bar Chart)
 * Platformada ən çox istehsal olunan və paylaşılan kontentlər **Food (Qida)** və **Tech (Texnologiya)** kateqoriyalarına aiddir. Ən az paylaşım sayı isə **Travel (Səyahət)** və **Lifestyle (Həyat tərzi)** qruplarında qeydə alınmışdır. Bu, platformadakı kontent təklifinin strukturunu göstərir.
   
-  <img width="885" height="542" alt="y2" src="https://github.com/user-attachments/assets/7cdb9b4e-f687-4edc-a33e-be708066eb70" />
+ <img width="713" height="330" alt="y1" src="https://github.com/user-attachments/assets/214d101b-9c28-4f82-abb1-3e06fca46f10" />
+
 
 ```python
 plt.figure(figsize=(8,3))
@@ -25,7 +26,8 @@ plt.show()
 
 * Videoların ümumi baxış paylanması göstərir ki, kütləvi sıxlıq **0 - 500,000** baxış aralığındadır və əsas pik nöqtəsi **300,000** ətrafındadır. **Tech** və **Comedy** demək olar ki, bütün baxış diapazonlarında stabil paylandığı halda, **Education** videoları daha çox aşağı baxışlı seqmentdə cəmləşmişdir.
   
-<img width="885" height="542" alt="y2" src="https://github.com/user-attachments/assets/03939b76-3993-40e3-b242-8d603ad5a80d" />
+<img width="885" height="542" alt="y2" src="https://github.com/user-attachments/assets/dae31381-b7d1-4f70-a70e-2321231746e2" />
+
 
 ```python
 plt.figure(figsize=(10,6))
